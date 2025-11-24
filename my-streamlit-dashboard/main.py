@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 DATA_FILES = {
     "Ryby 🐟🐠🐡": os.path.join(BASE_DIR, "data", "fish_data.csv"),
