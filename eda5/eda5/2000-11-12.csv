@@ -1,0 +1,166 @@
+,DATUMVOLEB,OBVOD,CKAND,VSTRANA,JMENO,PRIJMENI,TITULPRED,TITULZA,VEK,POVOLANI,BYDLISTEN,BYDLISTEK,PSTRANA,NSTRANA,PLATNOST,HLASY_K1,PROC_K1,URIZ_PR_K1,ZVOLEN_K1,LOS_K1,HLASY_K2,PROC_K2,URIZ_PR_K2,ZVOLEN_K2,LOS_K2,NAZEV_VS
+736,2000-11-12,2,1,53,Karel,Černík,PaedDr.,,61.0,starosta,Sokolov,560286.0,99.0,53.0,A,5099,23.13,23.1362584509279,2,0,5215,45.21,45.21022973558734,0,0,Občanská demokratická strana
+737,2000-11-12,2,2,208,Jan,Hadrava,,,45.0,starosta města Loket,Loket,560537.0,102.0,102.0,A,6060,27.49,27.49671037705885,2,0,6320,54.78,54.78977026441265,1,0,Čtyřkoalice
+738,2000-11-12,2,3,7,Rudolf,Macháček,MUDr.,,44.0,lékař,Sokolov,560286.0,7.0,7.0,A,3687,16.72,16.72943418485412,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+739,2000-11-12,2,4,47,Ladislav,Mrázek,,,47.0,statik,Sokolov,560286.0,47.0,47.0,A,4514,20.48,20.48187304324152,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+740,2000-11-12,2,5,80,Stanislav,Svoboda,Ing.,,51.0,soukromý podnikatel,Mariánské Lázně,554642.0,99.0,80.0,A,2679,12.15,12.1557239439176,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+741,2000-11-12,5,1,7,Bohumil,Bocian,Ing.,,54.0,technik,Chomutov,562971.0,7.0,7.0,A,3545,15.84,15.84711667411712,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+742,2000-11-12,5,2,53,Alexandr,Novák,,,44.0,starosta,Chomutov,562971.0,53.0,53.0,A,5343,23.88,23.88466696468484,2,0,9943,53.58,53.58374649708989,1,0,Občanská demokratická strana
+743,2000-11-12,5,3,47,Ladislav,Drlý,Ing.,,46.0,senátor PČR,Chomutov,562971.0,47.0,47.0,A,7235,32.34,32.34242288779615,2,0,8613,46.41,46.4162535029101,0,0,Komunistická strana Čech a Moravy
+744,2000-11-12,5,4,88,Jiří,Leitner,Ing.,,57.0,místostarosta,Jirkov,563099.0,99.0,88.0,A,3664,16.37,16.37907912382655,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+745,2000-11-12,5,5,208,Zdislava,Binterová,,,43.0,sociální pracovník,Chomutov,562971.0,102.0,102.0,A,2583,11.54,11.54671434957532,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+746,2000-11-12,8,1,7,František,Jirava,MUDr.,,59.0,primář oddělení,Holoubkov,559814.0,7.0,7.0,A,6091,18.39,18.3990333786437,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+747,2000-11-12,8,2,80,Jiří,Vracovský,,,51.0,podnikatel,Rokycany,559717.0,99.0,80.0,A,2377,7.18,7.18018426219604,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+748,2000-11-12,8,3,47,Helena,Suchá,,,41.0,moderátorka,Plzeň,2.0,99.0,47.0,A,7806,23.57,23.57951971001359,2,0,9813,39.23,39.23316807932192,0,0,Komunistická strana Čech a Moravy
+749,2000-11-12,8,4,208,Jiří,Holenda,Doc. RNDr.,CSc.,67.0,vysokoškolský učitel,Plzeň,2.0,99.0,13.0,A,4846,14.63,14.63827216432563,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+750,2000-11-12,8,5,125,Jan,Roj,,,49.0,soukromý podnikatel,Plzeň,2.0,125.0,125.0,A,579,1.74,1.74898051653828,0,0,0,0.0,0.0,0,0,Unie pro Evropu
+751,2000-11-12,8,6,53,Luděk,Sefzig,MUDr.,,43.0,lékař,Rokycany,559717.0,99.0,53.0,A,7333,22.15,22.15073251774656,2,0,15199,60.76,60.76683192067807,1,0,Občanská demokratická strana
+752,2000-11-12,8,7,128,František,Pillmann,MUDr.,,44.0,vedoucí referátu OkÚ,Plzeň,2.0,128.0,128.0,A,4073,12.3,12.30327745053617,0,0,0,0.0,0.0,0,0,Akce za zrušení Senátu
+753,2000-11-12,11,1,7,Petr,Smutný,Ing.,,53.0,senátor P ČR,Klenčí pod Čerchovem,553794.0,7.0,7.0,A,7988,23.68,23.68147994426491,2,0,11084,56.09,56.09595627309074,1,0,Česká strana sociálně demokratická
+754,2000-11-12,11,2,125,Vladimír,Šimčík,,,46.0,technik,Železná Ruda,557528.0,125.0,125.0,A,391,1.15,1.15917108890931,0,0,0,0.0,0.0,0,0,Unie pro Evropu
+755,2000-11-12,11,3,53,Pavel,Faschingbauer,Mgr.,,63.0,přednosta OkÚ,Domažlice,553425.0,99.0,53.0,A,6078,18.01,18.01903293706086,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+756,2000-11-12,11,4,208,Ivan,Petrů,Mgr.,,54.0,přednosta OkÚ,Klatovy,555771.0,99.0,102.0,A,3821,11.32,11.32785864634905,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+757,2000-11-12,11,5,80,Jaroslav,Komora,Ing.,CSc.,40.0,soukromý podnikatel,Plzeň,2.0,99.0,80.0,A,6282,18.62,18.62381785301354,2,0,8675,43.9,43.90404372690925,0,0,Nezávislí kandidáti
+758,2000-11-12,11,6,80,Tomislav,Vodička,,,55.0,podnikatel,Klatovy,555771.0,99.0,80.0,A,3660,10.85,10.85055290385698,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+759,2000-11-12,11,7,47,Jaroslav,Dolejší,Mgr.,,61.0,učitel ZŠ,Kolinec,556467.0,47.0,47.0,A,5278,15.64,15.64732738430523,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+760,2000-11-12,11,8,43,Karel,Jachan,,,60.0,důchodce,Úsilov,554405.0,43.0,43.0,A,129,0.38,0.38243752038184,0,0,0,0.0,0.0,0,0,Vlastenecká republikánská strana
+761,2000-11-12,11,9,2,Jaroslav,Fridrich,Mgr.,,55.0,marketing. special.,Praha,1.0,99.0,2.0,A,104,0.3,0.30832172185823,0,0,0,0.0,0.0,0,0,Česká strana národně sociální
+762,2000-11-12,14,1,113,Hana,Urbancová,Ing. arch.,,45.0,architektka,České Budějovice,544256.0,113.0,113.0,A,2888,7.78,7.78688524590163,0,0,0,0.0,0.0,0,0,Volba pro město
+763,2000-11-12,14,2,98,Jaroslav,Pavlíček,,,57.0,polárník,Písek,549240.0,98.0,98.0,A,855,2.3,2.30532786885245,0,0,0,0.0,0.0,0,0,Pravý blok
+764,2000-11-12,14,3,53,Jiří,Pospíšil,PhDr.,,51.0,senátor,České Budějovice,544256.0,53.0,53.0,A,10547,28.43,28.4377696289905,2,0,10290,51.86,51.86753364584908,1,0,Občanská demokratická strana
+765,2000-11-12,14,4,47,Petr,Braný,RSDr.,,49.0,uvolněný zastupitel,České Budějovice,544256.0,47.0,47.0,A,6057,16.33,16.33142795513373,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+766,2000-11-12,14,5,7,Vladimír,Papež,JUDr.,,50.0,advokát,České Budějovice,544256.0,7.0,7.0,A,5503,14.83,14.83768334771354,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+767,2000-11-12,14,6,5,Jiří,Šumský,,,44.0,ekonom,České Budějovice,544256.0,5.0,5.0,A,850,2.29,2.291846419327,0,0,0,0.0,0.0,0,0,Strana zelených
+768,2000-11-12,14,7,208,Petr,Petr,MUDr.,PhD.,53.0,lékař - internista,České Budějovice,544256.0,1.0,1.0,A,10388,28.0,28.0090595340811,2,0,9549,48.13,48.13246635415091,0,0,Čtyřkoalice
+769,2000-11-12,17,1,47,Libuše,Eliášová,RSDr.,,53.0,ředitelka muzea,Praha 4,500119.0,47.0,47.0,A,3772,12.19,12.19488539006175,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+770,2000-11-12,17,2,208,Edvard,Outrata,,,64.0,statistik,Praha 6,500178.0,99.0,102.0,A,7478,24.17,24.17639261582231,2,0,12659,62.25,62.25227440373739,1,0,Čtyřkoalice
+771,2000-11-12,17,3,7,Otto,Kechner,,,43.0,náměstek primátora,Praha 7,500186.0,7.0,7.0,A,1934,6.25,6.25262681452264,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+772,2000-11-12,17,4,80,Kateřina,Besserová,,,46.0,externí poradkyně,Praha 2,500089.0,99.0,80.0,A,4681,15.13,15.13368465293718,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+773,2000-11-12,17,5,53,Jan,Krámek,,,54.0,senátor,Praha 5,500143.0,53.0,53.0,A,6843,22.12,22.12343603504574,2,0,7676,37.74,37.7477255962626,0,0,Občanská demokratická strana
+774,2000-11-12,17,6,2,Radim,Uzel,MUDr.,CSc.,60.0,lékař,Praha 8,500208.0,99.0,2.0,A,6223,20.11,20.11897449161035,0,0,0,0.0,0.0,0,0,Česká strana národně sociální
+775,2000-11-12,17,7,80,Edita,Maríková,Ing,,56.0,ekonomka,Praha 6,500178.0,99.0,80.0,N,0,0.0,0.0,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+776,2000-11-12,20,1,53,Zdeněk,Klausner,,,52.0,senátor,Praha 4,500119.0,53.0,53.0,A,8794,26.05,26.05243667604799,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+777,2000-11-12,20,2,47,Miroslav,Prokeš,RNDr.,,52.0,průvodce,Praha,1.0,47.0,47.0,A,3565,10.56,10.56139831136127,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+778,2000-11-12,20,3,7,Světlana,Navarová,Ing.,,44.0,porad.předsedy vlády,Praha 4,500119.0,7.0,7.0,A,3149,9.32,9.32898829802992,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+779,2000-11-12,20,4,98,Rudolf,Mazáč,,,61.0,podnikatel,Praha,1.0,99.0,98.0,A,656,1.94,1.94341579025329,0,0,0,0.0,0.0,0,0,Pravý blok
+780,2000-11-12,20,5,208,Josef,Zieleniec,,,54.0,ekonom,Praha 2,500089.0,99.0,102.0,A,17591,52.11,52.1137609243075,1,0,0,0.0,0.0,0,0,Čtyřkoalice
+781,2000-11-12,23,1,7,Jiří,Paroubek,Ing.,,48.0,"ekonom,nám.primátora",Praha,1.0,7.0,7.0,A,4026,14.22,14.22966811578835,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+782,2000-11-12,23,2,47,František,Beneš,Ing.,CSc.,56.0,zeměměřič,Praha,1.0,47.0,47.0,A,4439,15.68,15.6893931361114,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+783,2000-11-12,23,3,98,Petr,Cibulka,,,50.0,novinář,Praha,1.0,98.0,98.0,A,4012,14.18,14.18018591170961,0,0,0,0.0,0.0,0,0,Pravý blok
+784,2000-11-12,23,4,88,Jiří,Novák,Ing.,,59.0,dopravní specialista,Praha,1.0,88.0,88.0,A,2221,7.84,7.84999823277842,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+785,2000-11-12,23,5,208,Jiřina,Voňková,JUDr.,CSc.,61.0,poradkyně g.ř.věz.sl,Praha,1.0,1.0,1.0,A,5212,18.42,18.42151768988795,2,0,8386,48.34,48.34822715479965,0,0,Čtyřkoalice
+786,2000-11-12,23,6,53,Alena,Palečková,RNDr.,,53.0,senátorka,Praha,1.0,53.0,53.0,A,8383,29.62,29.62923691372424,2,0,8959,51.65,51.65177284520034,1,0,Občanská demokratická strana
+787,2000-11-12,26,1,53,Daniela,Filipiová,Ing.arch.,,43.0,architekt,Praha 3,500097.0,53.0,53.0,A,11770,39.53,39.53644608666442,2,0,12036,54.29,54.29692786574637,1,0,Občanská demokratická strana
+788,2000-11-12,26,2,47,Jaroslav,Lemák,RSDr.,,54.0,zást.šéfredaktora,Praha 2,500089.0,47.0,47.0,A,3214,10.79,10.79610345985891,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+789,2000-11-12,26,3,208,Vladimír,Zeman,Ing.,,58.0,senátor,Praha 9,500216.0,102.0,102.0,A,9373,31.48,31.48471615720524,2,0,10131,45.7,45.70307213425362,0,0,Čtyřkoalice
+790,2000-11-12,26,4,7,Vladimír,Polanecký,MUDr.,,58.0,"lékař, hygienik",Praha 4,500119.0,99.0,7.0,A,5413,18.18,18.18273429627141,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+791,2000-11-12,29,1,208,Zdeněk,Bárta,Mgr.,,51.0,evangelický farář,Litoměřice,564567.0,99.0,1.0,A,12702,35.6,35.60376723847965,2,0,19104,66.91,66.9118419670064,1,0,Čtyřkoalice
+792,2000-11-12,29,2,7,Robert,Kopecký,,,48.0,starosta,Podsedice,565415.0,7.0,7.0,A,7062,19.79,19.79482004709048,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+793,2000-11-12,29,3,47,Pavel,Pospíšek,,,56.0,tajemník OV KSČM,Horní Beřkovice,564851.0,47.0,47.0,A,8606,24.12,24.12265949097432,2,0,9447,33.08,33.08815803299359,0,0,Komunistická strana Čech a Moravy
+794,2000-11-12,29,4,53,Karel,Burda,Ing.,,64.0,senátor,Tuchlovice,532983.0,53.0,53.0,A,7306,20.47,20.47875322345554,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+795,2000-11-12,32,1,25,Vilém,Schneider,,,60.0,projektatnt,Teplice,567442.0,99.0,25.0,A,441,1.56,1.56255536264748,0,0,0,0.0,0.0,0,0,Celostátní aktiv občanů
+796,2000-11-12,32,2,7,Valtr,Komárek,Prof.Ing.,DrSc.,70.0,ekonom,Praha 5,500143.0,7.0,7.0,A,4223,14.96,14.9629734613613,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+797,2000-11-12,32,3,80,Tomáš,Říman,,,49.0,prac.bezp.agentury,Dubí,567507.0,99.0,80.0,A,894,3.16,3.16762923856429,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+798,2000-11-12,32,4,88,František,Voháňka,,,45.0,starosta města,Košťany,567621.0,88.0,88.0,A,1074,3.8,3.80540693760408,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+799,2000-11-12,32,5,208,Alenka,Antošová,,,53.0,starostka,Proboštov,567787.0,1.0,1.0,A,5047,17.88,17.88257803918789,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+800,2000-11-12,32,6,123,Pavel,Svoboda,,,57.0,vydavatel TREFY,Teplice,567442.0,123.0,123.0,A,262,0.92,0.9283208730468,0,0,0,0.0,0.0,0,0,České sociálně demokratické hnutí
+801,2000-11-12,32,7,53,Jaroslav,Kubera,,,53.0,starosta,Teplice,567442.0,53.0,53.0,A,8540,30.25,30.25900860999893,2,0,13169,56.53,56.53872574274428,1,0,Občanská demokratická strana
+802,2000-11-12,32,8,47,Oldřich,Bubeníček,,,47.0,novinář,Bílina,567451.0,47.0,47.0,A,7742,27.43,27.4315274775892,2,0,10123,43.46,43.46127425725571,0,0,Komunistická strana Čech a Moravy
+803,2000-11-12,35,1,53,Jiří,Čeřovský,RNDr.,,45.0,starosta města,Jablonec nad Nisou,563510.0,53.0,53.0,A,11066,30.44,30.44961752242584,2,0,10498,48.61,48.61535611744002,0,0,Občanská demokratická strana
+804,2000-11-12,35,2,2,Ivan,Kracík,Ing.,,44.0,podnikatel,Jablonec nad Nisou,563510.0,99.0,2.0,A,1521,4.18,4.18524021792966,0,0,0,0.0,0.0,0,0,Česká strana národně sociální
+805,2000-11-12,35,3,47,Ludmila,Brynychová,Ing.,,47.0,poslankyně Parlam.ČR,Jablonec nad Nisou,563510.0,47.0,47.0,A,5447,14.98,14.98816795993616,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+806,2000-11-12,35,4,80,Jaroslava,Syrovátková,Ing.,,47.0,úředník,Jablonec nad Nisou,563510.0,99.0,80.0,A,5257,14.46,14.46535688734797,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+807,2000-11-12,35,5,7,František,Vízek,PaedDr.,,59.0,senátor Parlamentu,Jablonec nad Nisou,563510.0,7.0,7.0,A,4796,13.19,13.19685212701557,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+808,2000-11-12,35,6,208,Soňa,Paukrtová,Mgr.,,50.0,zástupce starosty,Jablonec nad Nisou,563510.0,99.0,102.0,A,6367,17.51,17.51967420615266,2,0,11096,51.38,51.38464388255997,1,0,Čtyřkoalice
+809,2000-11-12,35,7,88,Zdeněk,Joukl,Ing.,,59.0,podnikatel-ekolog,Desná,563552.0,88.0,88.0,A,1497,4.11,4.1192009245501,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+810,2000-11-12,35,8,43,Pavel,Kadaš,,,46.0,podnikatel,Tanvald,563820.0,43.0,43.0,A,391,1.07,1.07589015464201,0,0,0,0.0,0.0,0,0,Vlastenecká republikánská strana
+811,2000-11-12,38,1,80,Dagmar,Mocová,Ing.,,53.0,řed. Okr. agr. kom.,Mnichovo Hradiště,536326.0,99.0,80.0,A,2352,6.5,6.5038851865166,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+812,2000-11-12,38,2,20,Jan,Hutař,JUDr.,,51.0,ved. soc. práv. útv.,Praha 4,500119.0,99.0,20.0,A,335,0.92,0.92636119790946,0,0,0,0.0,0.0,0,0,Strana za životní jistoty
+813,2000-11-12,38,3,7,Jiří,Dienstbier,,,63.0,politik,Praha 2,500089.0,99.0,7.0,A,10854,30.01,30.01410281226668,2,0,12703,49.78,49.7824979425481,0,0,Česká strana sociálně demokratická
+814,2000-11-12,38,4,53,Jaroslav,Mitlener,MUDr.,,42.0,lékař,Mladá Boleslav,535419.0,53.0,53.0,A,9255,25.59,25.59245637806597,2,0,12814,50.21,50.21750205745189,1,0,Občanská demokratická strana
+815,2000-11-12,38,5,47,Karel,Skála,,,58.0,předseda OV KSČM,Mladá Boleslav,535419.0,47.0,47.0,A,4941,13.66,13.66313635483781,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+816,2000-11-12,38,6,208,Ratibor,Majzlík,Ing.,CSc.,55.0,technik,Praha-Klánovice,538302.0,81.0,81.0,A,1982,5.48,5.4807399828554,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+817,2000-11-12,38,7,80,Jarmila,Filipová,Ing.,,50.0,spec. inf. technol.,Dobrovice,535672.0,99.0,80.0,A,6444,17.81,17.81931808754804,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+818,2000-11-12,41,1,80,Václav,Lang,Ing.,,60.0,vývojový konstruktér,Jesenice,539325.0,99.0,80.0,A,940,2.36,2.36032642812303,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+819,2000-11-12,41,2,7,Zdeněk,Seidl,Doc.MUDr.,CSc.,50.0,lékař,Vlašim,530883.0,7.0,7.0,A,5608,14.08,14.08160703075957,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+820,2000-11-12,41,3,47,Jan,Minář,RNDr.,DrSc.,65.0,vědecký pracovník,Praha 6,500178.0,99.0,47.0,A,4121,10.34,10.34777150031387,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+821,2000-11-12,41,4,208,Helena,Rögnerová,Ing.,,45.0,manažer,Praha 4,500119.0,99.0,1.0,A,19273,48.39,48.39422473320778,2,0,24532,74.5,74.50873196659073,1,0,Čtyřkoalice
+822,2000-11-12,41,5,53,Libuše,Benešová,PhDr.,,52.0,senátorka,Lešany,530051.0,53.0,53.0,A,9883,24.81,24.81607030759573,2,0,8393,25.49,25.49126803340926,0,0,Občanská demokratická strana
+823,2000-11-12,44,1,47,Milan,Bičík,Mgr.,,50.0,učitel,Havlíčkův Brod,568414.0,47.0,47.0,A,6579,16.03,16.0377358490566,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+824,2000-11-12,44,2,53,Petr,Štěpánek,Mgr.,,42.0,člen rady,Hradec Králové,569810.0,53.0,53.0,A,9048,22.05,22.05645751060406,2,0,7950,35.21,35.21438695960311,0,0,Občanská demokratická strana
+825,2000-11-12,44,3,7,Miroslav,Šlouf,Ing.,,52.0,úředník,Praha 4,500119.0,7.0,7.0,A,4282,10.43,10.43830139924918,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+826,2000-11-12,44,4,80,John,Bok,,,55.0,živnostník,Praha 8,500208.0,99.0,80.0,N,0,0.0,0.0,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+827,2000-11-12,44,5,208,Petr,Pithart,Doc. JUDr.,,59.0,vysokoškolský učitel,Praha 1,500054.0,1.0,1.0,A,17085,41.64,41.64838379406172,2,0,14626,64.78,64.78561304039688,1,0,Čtyřkoalice
+828,2000-11-12,44,6,80,Stanislav,Pecka,,,51.0,pekař,Sobětuchy,572276.0,99.0,80.0,A,3173,7.73,7.73487397006484,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+829,2000-11-12,44,7,80,Stanislav,Římek,Ing.,,58.0,soukromník,Benešov,529303.0,99.0,80.0,A,855,2.08,2.08424747696358,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+830,2000-11-12,47,1,7,Richard,Sacher,JUDr.,,58.0,právník,Praha,1.0,99.0,7.0,A,6977,21.71,21.71220514097217,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+831,2000-11-12,47,2,53,Miloslav,Čermák,,,56.0,starosta města,Náchod,573868.0,99.0,53.0,A,9294,28.92,28.92263645982448,2,0,7537,37.62,37.62480031948881,0,0,Občanská demokratická strana
+832,2000-11-12,47,3,208,Petr,Fejfar,,,41.0,starosta,Česká Skalice,573990.0,102.0,102.0,A,11409,35.5,35.50445011514283,2,0,12495,62.37,62.37519968051118,1,0,Čtyřkoalice
+833,2000-11-12,47,4,51,Eduard,Katzer,Ing.,,52.0,stavitel,Nové Město n.Metují,574279.0,51.0,51.0,A,600,1.86,1.86718117881371,0,0,0,0.0,0.0,0,0,Národně demokratická strana
+834,2000-11-12,47,5,47,Miroslava,Doležalová,,,53.0,návrhářka,Náchod,573868.0,47.0,47.0,A,3854,11.99,11.99352710524677,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+835,2000-11-12,50,1,208,Jiří,Brýdl,Mgr.,,55.0,senátor Parlamentu,Svitavy,577731.0,1.0,1.0,A,13950,44.7,44.70007690335811,2,0,14045,66.82,66.82367494528499,1,0,Čtyřkoalice
+836,2000-11-12,50,2,7,Michal,Kraus,Ing.,,43.0,poslanec PS PČR,Svitavy,577731.0,7.0,7.0,A,6862,21.98,21.98795180722891,2,0,6973,33.17,33.176325054715,0,0,Česká strana sociálně demokratická
+837,2000-11-12,50,3,47,Jitka,Gruntová,PaedDr.,,55.0,místostarostka obce,Březová nad Svitavou,505145.0,99.0,47.0,A,5909,18.93,18.93424762881312,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+838,2000-11-12,50,4,53,Jiří,Brusenbauch,Mgr.,,47.0,ved. kanceláře OkÚ,Svitavy,577731.0,53.0,53.0,A,4487,14.37,14.37772366059984,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+839,2000-11-12,53,1,25,Ludmila,Kramolišová,,,53.0,architekt,Brno,3.0,99.0,25.0,A,1687,5.53,5.53223584967534,0,0,0,0.0,0.0,0,0,Celostátní aktiv občanů
+840,2000-11-12,53,2,208,Pavel,Janata,Ing.,,40.0,starosta,Třebíč,590266.0,1.0,1.0,A,10314,33.82,33.82304715681773,2,0,16611,65.08,65.08247463072522,1,0,Čtyřkoalice
+841,2000-11-12,53,3,53,Jiří,Mužík,MUDr.,,47.0,lékař - gynekolog,Třebíč,590266.0,53.0,53.0,A,6132,20.1,20.10887387682822,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+842,2000-11-12,53,4,47,Pavel,Kováčik,Ing.,,45.0,poslanec Parlamentu,Hrotovice,590673.0,47.0,47.0,A,7608,24.94,24.94917032858923,2,0,8912,34.91,34.91752536927477,0,0,Komunistická strana Čech a Moravy
+843,2000-11-12,53,5,7,Miloš,Mašek,,,55.0,zástupce starosty,Třebíč,590266.0,7.0,7.0,A,4753,15.58,15.58667278808946,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+844,2000-11-12,56,1,80,Helena,Omachlíková,Mgr.,,47.0,jednatelka spol.,Břeclav,584291.0,99.0,80.0,A,3578,12.27,12.27233750643114,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+845,2000-11-12,56,2,53,Leo,Čuda,PhDr.,,46.0,ředitel škol.úřadu,Břeclav,584291.0,53.0,53.0,A,3883,13.31,13.31847024524095,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+846,2000-11-12,56,3,7,Jan,Hajda,Ing.,,51.0,předseda ZD Sedlec,Pavlov,584771.0,7.0,7.0,A,4748,16.28,16.28537129137369,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+847,2000-11-12,56,4,80,Josef,Bendl,Ing.,,53.0,ředitel staveb.firmy,Břeclav,584291.0,99.0,80.0,A,2716,9.31,9.3157262905162,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+848,2000-11-12,56,5,95,Lotar,Indruch,Ing.,,60.0,středoškolský učitel,Brno,3.0,95.0,95.0,A,185,0.63,0.63453953009775,0,0,0,0.0,0.0,0,0,Mladí demokraté
+849,2000-11-12,56,6,47,Marta,Strušková,JUDr.,,56.0,advokátka,Břeclav,584291.0,47.0,47.0,A,6892,23.63,23.63916995369576,2,0,8806,32.61,32.61843908582435,0,0,Komunistická strana Čech a Moravy
+850,2000-11-12,56,7,208,Vladimír,Schovánek,Ing.,,45.0,starosta města,Pohořelice,584801.0,102.0,102.0,A,7153,24.53,24.53438518264448,2,0,18191,67.38,67.38156091417564,1,0,Čtyřkoalice
+851,2000-11-12,59,1,80,Ivo,Vaněk,,,44.0,stavební inženýr,Brno,3.0,99.0,80.0,A,4884,16.16,16.16255212125223,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+852,2000-11-12,59,2,53,Jarmila,Horová,Ing.,CSc.,59.0,členka Rady m.Brna,Brno,3.0,53.0,53.0,A,6000,19.85,19.8557151366735,2,0,6174,34.98,34.98215196328403,0,0,Občanská demokratická strana
+853,2000-11-12,59,3,25,Karol,Schneider,,,64.0,podnikatel,Brno,3.0,99.0,25.0,A,273,0.9,0.90343503871864,0,0,0,0.0,0.0,0,0,Celostátní aktiv občanů
+854,2000-11-12,59,4,20,Pavel,Fil'o,PhDr.,CSc.,52.0,psycholog,Brno,3.0,20.0,20.0,A,372,1.23,1.23105433847375,0,0,0,0.0,0.0,0,0,Strana za životní jistoty
+855,2000-11-12,59,5,105,Čestmír,Hofhanzl,RNDr.,,59.0,biolog,Telč,588024.0,105.0,105.0,A,352,1.16,1.16486862135151,0,0,0,0.0,0.0,0,0,Strana konzervativní smlouvy
+856,2000-11-12,59,6,126,Karel,Rada,,,46.0,ved.tuzem.prodeje,Brno,3.0,99.0,126.0,A,1255,4.15,4.15315374942087,0,0,0,0.0,0.0,0,0,Nestraníci pro Moravu
+857,2000-11-12,59,7,47,Pavel,Březa,Ing.,,58.0,zeměměřič,Brno,3.0,47.0,47.0,A,3539,11.71,11.71156264478125,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+858,2000-11-12,59,8,208,Milan,Šimonovský,Ing.,,51.0,náměst.prim.m.Brna,Brno,3.0,1.0,1.0,A,8307,27.49,27.49023760672446,2,0,11475,65.01,65.01784803671596,1,0,Čtyřkoalice
+859,2000-11-12,59,9,7,Vladimír,Vetchý,RNDr.,CSc.,51.0,ministr obrany,Brno,3.0,7.0,7.0,A,5236,17.32,17.32742074260374,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+860,2000-11-12,62,1,80,Vladimír,Komínek,,,47.0,podnikatel,Prostějov,589250.0,99.0,80.0,A,3984,10.36,10.36851967520299,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+861,2000-11-12,62,2,7,Jan,Kavan,,,54.0,ministr zahraničí,Praha 5,500143.0,7.0,7.0,A,11644,30.3,30.30397668124089,2,0,12517,41.89,41.89650555629937,0,0,Česká strana sociálně demokratická
+862,2000-11-12,62,3,2,Oto,Košta,MUDr.,,44.0,lékař,Lutín,503657.0,99.0,2.0,A,878,2.28,2.28503018946491,0,0,0,0.0,0.0,0,0,Česká strana národně sociální
+863,2000-11-12,62,4,208,Robert,Kolář,Ing.,,41.0,manažer,Prostějov,589250.0,102.0,102.0,A,11039,28.72,28.72943993337497,2,0,17359,58.1,58.10349444370062,1,0,Čtyřkoalice
+864,2000-11-12,62,5,47,Václav,Šmíd,Ing.,,49.0,podnikatel,Prostějov,589250.0,47.0,47.0,A,5503,14.32,14.32177805538205,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+865,2000-11-12,62,6,53,Jan,Tesař,Ing.,,54.0,starosta města,Prostějov,589250.0,53.0,53.0,A,5376,13.99,13.99125546533416,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+866,2000-11-12,65,1,53,Petr,Krill,Ing.,,59.0,starosta města,Šumperk,523704.0,53.0,53.0,A,6787,24.42,24.42509086983121,2,0,5995,41.24,41.2481078849594,0,0,Občanská demokratická strana
+867,2000-11-12,65,2,208,Adolf,Jílek,Ing.,,51.0,přednosta OkÚ,Dolní Studénky,553379.0,1.0,1.0,A,8039,28.93,28.93079497606794,2,0,8539,58.75,58.75189211504059,1,0,Čtyřkoalice
+868,2000-11-12,65,3,80,Václav,Reitinger,Ing.,,58.0,ekonom,Šumperk,523704.0,7.0,80.0,A,1722,6.19,6.19714254867384,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+869,2000-11-12,65,4,47,Jiří,Surma,RSDr.,,55.0,obchodní zástupce,Dolní Studénky,553379.0,47.0,47.0,A,6262,22.53,22.53571814157699,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+870,2000-11-12,65,5,7,Jiří,Krátký,Ing.,,55.0,starosta,Jeseník,536385.0,7.0,7.0,A,4977,17.91,17.91125346385,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+871,2000-11-12,68,1,208,Josef,Jařab,PhDr.,,63.0,vysokoškolský učitel,Olomouc,500496.0,99.0,13.0,A,9174,28.47,28.47741735216514,2,0,10697,57.09,57.09939148073022,1,0,Čtyřkoalice
+872,2000-11-12,68,2,88,Jaromír,Šimánek,Mgr.,,41.0,speciální pedagog,Opava,505927.0,88.0,88.0,N,0,0.0,0.0,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+873,2000-11-12,68,3,80,Radim,Masný,,,45.0,podnikatel,Opava,505927.0,99.0,80.0,A,4423,13.72,13.72962905478814,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+874,2000-11-12,68,4,47,Zdeněk,Petřík,,,59.0,důchodce,Opava,505927.0,47.0,47.0,A,4598,14.27,14.27285426043768,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+875,2000-11-12,68,5,53,Václav,Vlček,MUDr.,,53.0,lékař,Opava,505927.0,53.0,53.0,A,11139,34.57,34.57706037560142,2,0,8037,42.9,42.90060851926977,0,0,Občanská demokratická strana
+876,2000-11-12,68,6,7,Bedřich,Lešenar,Ing.,,66.0,ekonom,Opava,505927.0,7.0,7.0,A,2881,8.94,8.9430389570076,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+877,2000-11-12,71,1,208,Jaroslav,Slaný,MUDr.,CSc.,43.0,dětský lékař,Ostrava,4.0,102.0,102.0,A,4822,17.92,17.92231927151087,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+878,2000-11-12,71,2,20,František,Kunčík,MUDr.,CSc.,62.0,primář ARO,Ostrava,4.0,20.0,20.0,A,799,2.96,2.9697082326705,0,0,0,0.0,0.0,0,0,Strana za životní jistoty
+879,2000-11-12,71,3,88,Jaroslav,Suchánek,RNDr.,,45.0,konzultant,Ostrava,4.0,99.0,88.0,A,1892,7.03,7.0321501579632,0,0,0,0.0,0.0,0,0,NEZÁVISLÍ
+880,2000-11-12,71,4,47,Růžena,Šarišská,MUDr.,,56.0,lékařka,Ostrava,4.0,47.0,47.0,A,7690,28.58,28.58204794647834,2,0,7616,42.46,42.46919087715385,0,0,Komunistická strana Čech a Moravy
+881,2000-11-12,71,5,53,Milan,Balabán,Ing.,,56.0,projektant,Ostrava,4.0,53.0,53.0,A,6949,25.82,25.82791302731834,2,0,10317,57.53,57.53080912284614,1,0,Občanská demokratická strana
+882,2000-11-12,71,6,7,Jan,Zapletal,Ing.,,52.0,informatik-program.,Ostrava,4.0,7.0,7.0,A,4753,17.66,17.66586136405872,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+883,2000-11-12,74,1,80,Jiří,Kopel,Ing.,,48.0,Živnostník,Albrechtice,598925.0,99.0,80.0,A,818,2.76,2.76407379874298,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+884,2000-11-12,74,2,80,Václav,Žalud,Ing.,,64.0,podnikatel,Havířov,555088.0,99.0,80.0,A,706,2.38,2.38561870649455,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+885,2000-11-12,74,3,208,Ondřej,Feber,Ing.,,48.0,Starosta,Stonava,599140.0,102.0,102.0,A,6010,20.3,20.30817057511657,2,0,10734,51.66,51.66538313438582,1,0,Čtyřkoalice
+886,2000-11-12,74,4,47,Milada,Halíková,PaedDr.,,50.0,učitelka,Havířov,555088.0,99.0,47.0,A,9662,32.64,32.64850983307427,2,0,10042,48.33,48.33461686561417,0,0,Komunistická strana Čech a Moravy
+887,2000-11-12,74,5,80,Jan,Szotkowski,,,47.0,soukromý podnikatel,Český Těšín,598933.0,99.0,80.0,A,1007,3.4,3.40271676691221,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+888,2000-11-12,74,6,53,Emilie,Večeřová,MUDr.,,62.0,Lékařka-primářka,Havířov,555088.0,53.0,53.0,A,5693,19.23,19.23700750152057,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
+889,2000-11-12,74,7,7,Alfréd,Michalík,Ing.,,56.0,Senátor,Bohumín,599051.0,7.0,7.0,A,5698,19.25,19.25390281813881,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+890,2000-11-12,77,1,208,Jiří,Hruška,,,54.0,starosta obce,Jablůnka,542865.0,102.0,102.0,A,5798,18.43,18.43912988169444,0,0,0,0.0,0.0,0,0,Čtyřkoalice
+891,2000-11-12,77,2,47,Vlastislav,Antolák,Mgr.,,58.0,učitel ZŠ,Vsetín,541630.0,47.0,47.0,A,3677,11.69,11.69380485943264,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+892,2000-11-12,77,3,80,Jaroslav,Kubín,JUDr.,,52.0,starosta města,Rožnov pod Radhoštěm,544841.0,99.0,80.0,A,11774,37.44,37.44434550311665,2,0,14644,71.17,71.1737545565006,1,0,Nezávislí kandidáti
+893,2000-11-12,77,4,53,Vladimír,Oplt,Ing.,,63.0,lesní inženýr,Valašské Meziříčí,545058.0,53.0,53.0,A,7713,24.52,24.52932196921511,2,0,5931,28.82,28.82624544349939,0,0,Občanská demokratická strana
+894,2000-11-12,77,5,80,Miroslav,Běčák,,,40.0,nezaměstnaný,Metylovice,512184.0,99.0,80.0,N,0,0.0,0.0,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+895,2000-11-12,77,6,7,Svatoslav,Tyralík,,,52.0,živnostník,Vsetín,541630.0,7.0,7.0,A,2482,7.89,7.89339778654115,0,0,0,0.0,0.0,0,0,Česká strana sociálně demokratická
+896,2000-11-12,77,7,80,Miroslav,Holáň,,,54.0,dělník,Bratřejov,585106.0,99.0,80.0,N,0,0.0,0.0,0,0,0,0.0,0.0,0,0,Nezávislí kandidáti
+897,2000-11-12,80,1,7,Stanislav,Mišák,MVDr.,,48.0,starosta,Otrokovice,585599.0,7.0,7.0,A,12771,39.25,39.25793858166056,2,0,10226,48.98,48.98917313404234,0,0,Česká strana sociálně demokratická
+898,2000-11-12,80,2,47,Milan,Katolický,Ing.,,62.0,důchodce,Uherský Brod,592731.0,47.0,47.0,A,4424,13.59,13.5993360179521,0,0,0,0.0,0.0,0,0,Komunistická strana Čech a Moravy
+899,2000-11-12,80,3,208,Jiří,Stodůlka,,,50.0,senátor,Otrokovice,585599.0,1.0,1.0,A,11038,33.93,33.930712243706,2,0,10648,51.01,51.01082686595765,1,0,Čtyřkoalice
+900,2000-11-12,80,4,53,Ladislav,Kocman,RNDr.,,64.0,pedagog,Bojkovice,592048.0,53.0,53.0,A,4298,13.21,13.21201315668131,0,0,0,0.0,0.0,0,0,Občanská demokratická strana
