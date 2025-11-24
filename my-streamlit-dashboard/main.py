@@ -4,8 +4,8 @@ import streamlit as st
 
 
 DATA_FILES = {
-    "Ryby 🐟🐠🐡": "data/fish_data.csv",
-    "Tučňáci 🦆🦅🦉": "data/penguins_size_nona.csv",
+    "Ryby 🐟🐠🐡": os.path.join(BASE_DIR, "data", "fish_data.csv"),
+    "Tučňáci 🦆🦅🦉": os.path.join(BASE_DIR, "data", "penguins_size_nona.csv"),
 }
 
 
