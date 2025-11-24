@@ -12,7 +12,7 @@ DATA_FILES = {
 
 
 def app():
-    st.title("PyDataLadies Dashboard")
+    st.title("Moje aplikace")
 
     # vstup 1: výběr datové sady
     dataset = st.selectbox("Dataset", DATA_FILES.keys())
